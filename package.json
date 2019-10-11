@@ -1,0 +1,14 @@
+{
+    "name": "usr",
+    "version": "0.0.1",
+    "description": "User management module",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "request": "^2.88.0"
+    }
+}
